@@ -25,6 +25,8 @@
 - You can also use https://github.com/axios/axios (axios) which is a very popular HTTP client
 - https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
 - https://ant.design/components/layout/
+- Add files/folders to run frontend:
+  - node_modules folder
 
 ## Packaging Backend + Frontend with Maven
 
