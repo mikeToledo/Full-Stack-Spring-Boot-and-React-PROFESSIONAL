@@ -1,7 +1,7 @@
 version: "3.8"
 services:
   backend:
-    image: "palmillas/spring-react-fullstack:latest"
+    image: "palmillas/spring-react-fullstack:2.5.2022.20.49.12"
     ports:
       - "80:8080"
     restart: "always"
